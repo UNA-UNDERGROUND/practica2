@@ -1,0 +1,4 @@
+No puede eliminar el elemento en la posición: -1
+No puede eliminar el elemento en la posición: 999
+No puede eliminar el elemento en la posición: -1
+No puede eliminar el elemento en la posición: 999

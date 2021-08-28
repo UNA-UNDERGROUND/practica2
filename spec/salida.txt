@@ -1,0 +1,1033 @@
+
+========================================================================
+Operaciones de arreglo:
+------------------------------------------------------------------------
+
+Elimina elementos al inicio de la coleccion:
+
+Agrega elementos al final..
+
+Array:[
+	a:{e: a1}
+]
+Array:[
+	a:{e: a1}, 
+	a:{e: a2}
+]
+Array:[
+	a:{e: a1}, 
+	a:{e: a2}, 
+	a:{e: a3}
+]
+Array:[
+	a:{e: a1}, 
+	a:{e: a2}, 
+	a:{e: a3}, 
+	a:{e: a4}
+]
+Array:[
+	a:{e: a1}, 
+	a:{e: a2}, 
+	a:{e: a3}, 
+	a:{e: a4}, 
+	a:{e: a5}
+]
+Array:[
+	a:{e: a1}, 
+	a:{e: a2}, 
+	a:{e: a3}, 
+	a:{e: a4}, 
+	a:{e: a5}, 
+	a:{e: a6}
+]
+Array:[
+	a:{e: a1}, 
+	a:{e: a2}, 
+	a:{e: a3}, 
+	a:{e: a4}, 
+	a:{e: a5}, 
+	a:{e: a6}, 
+	a:{e: a7}
+]
+Array:[
+	a:{e: a1}, 
+	a:{e: a2}, 
+	a:{e: a3}, 
+	a:{e: a4}, 
+	a:{e: a5}, 
+	a:{e: a6}, 
+	a:{e: a7}, 
+	a:{e: a8}
+]
+
+Elimina (inicio): a:{e: a1}
+Array:[
+	a:{e: a2}, 
+	a:{e: a3}, 
+	a:{e: a4}, 
+	a:{e: a5}, 
+	a:{e: a6}, 
+	a:{e: a7}, 
+	a:{e: a8}
+]
+Elimina (inicio): a:{e: a2}
+Array:[
+	a:{e: a3}, 
+	a:{e: a4}, 
+	a:{e: a5}, 
+	a:{e: a6}, 
+	a:{e: a7}, 
+	a:{e: a8}
+]
+Elimina (inicio): a:{e: a3}
+Array:[
+	a:{e: a4}, 
+	a:{e: a5}, 
+	a:{e: a6}, 
+	a:{e: a7}, 
+	a:{e: a8}
+]
+Elimina (inicio): a:{e: a4}
+Array:[
+	a:{e: a5}, 
+	a:{e: a6}, 
+	a:{e: a7}, 
+	a:{e: a8}
+]
+Elimina (inicio): a:{e: a5}
+Array:[
+	a:{e: a6}, 
+	a:{e: a7}, 
+	a:{e: a8}
+]
+Elimina (inicio): a:{e: a6}
+Array:[
+	a:{e: a7}, 
+	a:{e: a8}
+]
+Elimina (inicio): a:{e: a7}
+Array:[
+	a:{e: a8}
+]
+Elimina (inicio): a:{e: a8}
+Array:[
+]
+
+Array:[
+]
+
+Agrega elementos al inicio..
+Array:[
+	a:{e: a1}
+]
+Array:[
+	a:{e: a2}, 
+	a:{e: a1}
+]
+Array:[
+	a:{e: a3}, 
+	a:{e: a2}, 
+	a:{e: a1}
+]
+Array:[
+	a:{e: a4}, 
+	a:{e: a3}, 
+	a:{e: a2}, 
+	a:{e: a1}
+]
+Array:[
+	a:{e: a5}, 
+	a:{e: a4}, 
+	a:{e: a3}, 
+	a:{e: a2}, 
+	a:{e: a1}
+]
+Array:[
+	a:{e: a6}, 
+	a:{e: a5}, 
+	a:{e: a4}, 
+	a:{e: a3}, 
+	a:{e: a2}, 
+	a:{e: a1}
+]
+Array:[
+	a:{e: a7}, 
+	a:{e: a6}, 
+	a:{e: a5}, 
+	a:{e: a4}, 
+	a:{e: a3}, 
+	a:{e: a2}, 
+	a:{e: a1}
+]
+Array:[
+	a:{e: a8}, 
+	a:{e: a7}, 
+	a:{e: a6}, 
+	a:{e: a5}, 
+	a:{e: a4}, 
+	a:{e: a3}, 
+	a:{e: a2}, 
+	a:{e: a1}
+]
+
+Elimina (inicio): a:{e: a8}
+Array:[
+	a:{e: a7}, 
+	a:{e: a6}, 
+	a:{e: a5}, 
+	a:{e: a4}, 
+	a:{e: a3}, 
+	a:{e: a2}, 
+	a:{e: a1}
+]
+Elimina (inicio): a:{e: a7}
+Array:[
+	a:{e: a6}, 
+	a:{e: a5}, 
+	a:{e: a4}, 
+	a:{e: a3}, 
+	a:{e: a2}, 
+	a:{e: a1}
+]
+Elimina (inicio): a:{e: a6}
+Array:[
+	a:{e: a5}, 
+	a:{e: a4}, 
+	a:{e: a3}, 
+	a:{e: a2}, 
+	a:{e: a1}
+]
+Elimina (inicio): a:{e: a5}
+Array:[
+	a:{e: a4}, 
+	a:{e: a3}, 
+	a:{e: a2}, 
+	a:{e: a1}
+]
+Elimina (inicio): a:{e: a4}
+Array:[
+	a:{e: a3}, 
+	a:{e: a2}, 
+	a:{e: a1}
+]
+Elimina (inicio): a:{e: a3}
+Array:[
+	a:{e: a2}, 
+	a:{e: a1}
+]
+Elimina (inicio): a:{e: a2}
+Array:[
+	a:{e: a1}
+]
+Elimina (inicio): a:{e: a1}
+Array:[
+]
+
+Elimina elementos al final de la coleccion:
+
+Array:[
+	a:{e: a1}, 
+	a:{e: a2}, 
+	a:{e: a3}, 
+	a:{e: a4}, 
+	a:{e: a5}, 
+	a:{e: a6}, 
+	a:{e: a7}, 
+	a:{e: a8}
+]
+
+Elimina (final): a:{e: a8}
+Array:[
+	a:{e: a1}, 
+	a:{e: a2}, 
+	a:{e: a3}, 
+	a:{e: a4}, 
+	a:{e: a5}, 
+	a:{e: a6}, 
+	a:{e: a7}
+]
+Elimina (final): a:{e: a7}
+Array:[
+	a:{e: a1}, 
+	a:{e: a2}, 
+	a:{e: a3}, 
+	a:{e: a4}, 
+	a:{e: a5}, 
+	a:{e: a6}
+]
+Elimina (final): a:{e: a6}
+Array:[
+	a:{e: a1}, 
+	a:{e: a2}, 
+	a:{e: a3}, 
+	a:{e: a4}, 
+	a:{e: a5}
+]
+Elimina (final): a:{e: a5}
+Array:[
+	a:{e: a1}, 
+	a:{e: a2}, 
+	a:{e: a3}, 
+	a:{e: a4}
+]
+Elimina (final): a:{e: a4}
+Array:[
+	a:{e: a1}, 
+	a:{e: a2}, 
+	a:{e: a3}
+]
+Elimina (final): a:{e: a3}
+Array:[
+	a:{e: a1}, 
+	a:{e: a2}
+]
+Elimina (final): a:{e: a2}
+Array:[
+	a:{e: a1}
+]
+Elimina (final): a:{e: a1}
+Array:[
+]
+
+Elimina elementos en posiciones arbitrarias de la coleccion:
+
+Array:[
+]
+
+
+Elimina 1: a:{e: a2}
+Array:[
+	a:{e: a1}, 
+	a:{e: a3}, 
+	a:{e: a4}, 
+	a:{e: a5}, 
+	a:{e: a6}, 
+	a:{e: a7}, 
+	a:{e: a8}
+]
+Elimina 2: a:{e: a4}
+Array:[
+	a:{e: a1}, 
+	a:{e: a3}, 
+	a:{e: a5}, 
+	a:{e: a6}, 
+	a:{e: a7}, 
+	a:{e: a8}
+]
+Elimina 0: a:{e: a1}
+Array:[
+	a:{e: a3}, 
+	a:{e: a5}, 
+	a:{e: a6}, 
+	a:{e: a7}, 
+	a:{e: a8}
+]
+Elimina 1: a:{e: a5}
+Array:[
+	a:{e: a3}, 
+	a:{e: a6}, 
+	a:{e: a7}, 
+	a:{e: a8}
+]
+Elimina 1: a:{e: a6}
+Array:[
+	a:{e: a3}, 
+	a:{e: a7}, 
+	a:{e: a8}
+]
+Elimina 0: a:{e: a3}
+Array:[
+	a:{e: a7}, 
+	a:{e: a8}
+]
+Elimina 1: a:{e: a8}
+Array:[
+	a:{e: a7}
+]
+Elimina 0: a:{e: a7}
+Array:[
+]
+
+Recupera elementos por posicion:
+
+Array:[
+]
+Array:[
+	a:{e: a1}, 
+	a:{e: a2}, 
+	a:{e: a3}, 
+	a:{e: a4}, 
+	a:{e: a5}, 
+	a:{e: a6}, 
+	a:{e: a7}, 
+	a:{e: a8}
+]
+
+0: a:{e: a1}
+1: a:{e: a2}
+2: a:{e: a3}
+3: a:{e: a4}
+4: a:{e: a5}
+5: a:{e: a6}
+6: a:{e: a7}
+7: a:{e: a8}
+
+Elimina elementos por valor:
+
+Array:[
+	a:{e: a1}, 
+	a:{e: a2}, 
+	a:{e: a3}, 
+	a:{e: a4}, 
+	a:{e: a5}, 
+	a:{e: a6}, 
+	a:{e: a7}, 
+	a:{e: a8}
+]
+
+Eliminar: a:{e: a1} (0) ...
+Array:[
+	a:{e: a2}, 
+	a:{e: a3}, 
+	a:{e: a4}, 
+	a:{e: a5}, 
+	a:{e: a6}, 
+	a:{e: a7}, 
+	a:{e: a8}
+]
+
+Eliminar: a:{e: a4} (2) ...
+Array:[
+	a:{e: a2}, 
+	a:{e: a3}, 
+	a:{e: a5}, 
+	a:{e: a6}, 
+	a:{e: a7}, 
+	a:{e: a8}
+]
+
+Eliminar: a:{e: a3} (1) ...
+Array:[
+	a:{e: a2}, 
+	a:{e: a5}, 
+	a:{e: a6}, 
+	a:{e: a7}, 
+	a:{e: a8}
+]
+
+Eliminar: a:{e: a7} (3) ...
+Array:[
+	a:{e: a2}, 
+	a:{e: a5}, 
+	a:{e: a6}, 
+	a:{e: a8}
+]
+
+Eliminar: a:{e: a6} (2) ...
+Array:[
+	a:{e: a2}, 
+	a:{e: a5}, 
+	a:{e: a8}
+]
+
+Eliminar: a:{e: a5} (1) ...
+Array:[
+	a:{e: a2}, 
+	a:{e: a8}
+]
+
+Eliminar: a:{e: a8} (1) ...
+Array:[
+	a:{e: a2}
+]
+
+Eliminar: a:{e: a2} (0) ...
+Array:[
+]
+
+
+Inserta elementos en posiciones arbitrarias:
+
+Array:[
+]
+
+Insertando: a:{e: a1} ->[4] ...
+Array:[
+	a:{e: a1}
+]
+Insertando: a:{e: a1} ->[3] ...
+Array:[
+	a:{e: a1}, 
+	a:{e: a1}
+]
+Insertando: a:{e: a1} ->[1] ...
+Array:[
+	a:{e: a1}, 
+	a:{e: a1}, 
+	a:{e: a1}
+]
+Insertando: a:{e: a1} ->[2] ...
+Array:[
+	a:{e: a1}, 
+	a:{e: a1}, 
+	a:{e: a1}, 
+	a:{e: a1}
+]
+Insertando: a:{e: a1} ->[3] ...
+Array:[
+	a:{e: a1}, 
+	a:{e: a1}, 
+	a:{e: a1}, 
+	a:{e: a1}, 
+	a:{e: a1}
+]
+Insertando: a:{e: a1} ->[1] ...
+Array:[
+	a:{e: a1}, 
+	a:{e: a1}, 
+	a:{e: a1}, 
+	a:{e: a1}, 
+	a:{e: a1}, 
+	a:{e: a1}
+]
+Insertando: a:{e: a1} ->[7] ...
+Array:[
+	a:{e: a1}, 
+	a:{e: a1}, 
+	a:{e: a1}, 
+	a:{e: a1}, 
+	a:{e: a1}, 
+	a:{e: a1}, 
+	a:{e: a1}
+]
+Insertando: a:{e: a1} ->[10] ...
+Array:[
+	a:{e: a1}, 
+	a:{e: a1}, 
+	a:{e: a1}, 
+	a:{e: a1}, 
+	a:{e: a1}, 
+	a:{e: a1}, 
+	a:{e: a1}, 
+	a:{e: a1}
+]
+Array:[
+]
+
+
+========================================================================
+Operaciones de lista:
+------------------------------------------------------------------------
+
+Elimina elementos al inicio de la coleccion:
+
+Agrega elementos al final..
+
+List:[
+	a:{e: a1}
+]
+List:[
+	a:{e: a1}, 
+	a:{e: a2}
+]
+List:[
+	a:{e: a1}, 
+	a:{e: a2}, 
+	a:{e: a3}
+]
+List:[
+	a:{e: a1}, 
+	a:{e: a2}, 
+	a:{e: a3}, 
+	a:{e: a4}
+]
+List:[
+	a:{e: a1}, 
+	a:{e: a2}, 
+	a:{e: a3}, 
+	a:{e: a4}, 
+	a:{e: a5}
+]
+List:[
+	a:{e: a1}, 
+	a:{e: a2}, 
+	a:{e: a3}, 
+	a:{e: a4}, 
+	a:{e: a5}, 
+	a:{e: a6}
+]
+List:[
+	a:{e: a1}, 
+	a:{e: a2}, 
+	a:{e: a3}, 
+	a:{e: a4}, 
+	a:{e: a5}, 
+	a:{e: a6}, 
+	a:{e: a7}
+]
+List:[
+	a:{e: a1}, 
+	a:{e: a2}, 
+	a:{e: a3}, 
+	a:{e: a4}, 
+	a:{e: a5}, 
+	a:{e: a6}, 
+	a:{e: a7}, 
+	a:{e: a8}
+]
+
+Elimina (inicio): a:{e: a1}
+List:[
+	a:{e: a2}, 
+	a:{e: a3}, 
+	a:{e: a4}, 
+	a:{e: a5}, 
+	a:{e: a6}, 
+	a:{e: a7}, 
+	a:{e: a8}
+]
+Elimina (inicio): a:{e: a2}
+List:[
+	a:{e: a3}, 
+	a:{e: a4}, 
+	a:{e: a5}, 
+	a:{e: a6}, 
+	a:{e: a7}, 
+	a:{e: a8}
+]
+Elimina (inicio): a:{e: a3}
+List:[
+	a:{e: a4}, 
+	a:{e: a5}, 
+	a:{e: a6}, 
+	a:{e: a7}, 
+	a:{e: a8}
+]
+Elimina (inicio): a:{e: a4}
+List:[
+	a:{e: a5}, 
+	a:{e: a6}, 
+	a:{e: a7}, 
+	a:{e: a8}
+]
+Elimina (inicio): a:{e: a5}
+List:[
+	a:{e: a6}, 
+	a:{e: a7}, 
+	a:{e: a8}
+]
+Elimina (inicio): a:{e: a6}
+List:[
+	a:{e: a7}, 
+	a:{e: a8}
+]
+Elimina (inicio): a:{e: a7}
+List:[
+	a:{e: a8}
+]
+Elimina (inicio): a:{e: a8}
+List:[
+]
+
+List:[
+]
+
+Agrega elementos al inicio..
+List:[
+	a:{e: a1}
+]
+List:[
+	a:{e: a2}, 
+	a:{e: a1}
+]
+List:[
+	a:{e: a3}, 
+	a:{e: a2}, 
+	a:{e: a1}
+]
+List:[
+	a:{e: a4}, 
+	a:{e: a3}, 
+	a:{e: a2}, 
+	a:{e: a1}
+]
+List:[
+	a:{e: a5}, 
+	a:{e: a4}, 
+	a:{e: a3}, 
+	a:{e: a2}, 
+	a:{e: a1}
+]
+List:[
+	a:{e: a6}, 
+	a:{e: a5}, 
+	a:{e: a4}, 
+	a:{e: a3}, 
+	a:{e: a2}, 
+	a:{e: a1}
+]
+List:[
+	a:{e: a7}, 
+	a:{e: a6}, 
+	a:{e: a5}, 
+	a:{e: a4}, 
+	a:{e: a3}, 
+	a:{e: a2}, 
+	a:{e: a1}
+]
+List:[
+	a:{e: a8}, 
+	a:{e: a7}, 
+	a:{e: a6}, 
+	a:{e: a5}, 
+	a:{e: a4}, 
+	a:{e: a3}, 
+	a:{e: a2}, 
+	a:{e: a1}
+]
+
+Elimina (inicio): a:{e: a8}
+List:[
+	a:{e: a7}, 
+	a:{e: a6}, 
+	a:{e: a5}, 
+	a:{e: a4}, 
+	a:{e: a3}, 
+	a:{e: a2}, 
+	a:{e: a1}
+]
+Elimina (inicio): a:{e: a7}
+List:[
+	a:{e: a6}, 
+	a:{e: a5}, 
+	a:{e: a4}, 
+	a:{e: a3}, 
+	a:{e: a2}, 
+	a:{e: a1}
+]
+Elimina (inicio): a:{e: a6}
+List:[
+	a:{e: a5}, 
+	a:{e: a4}, 
+	a:{e: a3}, 
+	a:{e: a2}, 
+	a:{e: a1}
+]
+Elimina (inicio): a:{e: a5}
+List:[
+	a:{e: a4}, 
+	a:{e: a3}, 
+	a:{e: a2}, 
+	a:{e: a1}
+]
+Elimina (inicio): a:{e: a4}
+List:[
+	a:{e: a3}, 
+	a:{e: a2}, 
+	a:{e: a1}
+]
+Elimina (inicio): a:{e: a3}
+List:[
+	a:{e: a2}, 
+	a:{e: a1}
+]
+Elimina (inicio): a:{e: a2}
+List:[
+	a:{e: a1}
+]
+Elimina (inicio): a:{e: a1}
+List:[
+]
+
+Elimina elementos al final de la coleccion:
+
+List:[
+	a:{e: a1}, 
+	a:{e: a2}, 
+	a:{e: a3}, 
+	a:{e: a4}, 
+	a:{e: a5}, 
+	a:{e: a6}, 
+	a:{e: a7}, 
+	a:{e: a8}
+]
+
+Elimina (final): a:{e: a8}
+List:[
+	a:{e: a1}, 
+	a:{e: a2}, 
+	a:{e: a3}, 
+	a:{e: a4}, 
+	a:{e: a5}, 
+	a:{e: a6}, 
+	a:{e: a7}
+]
+Elimina (final): a:{e: a7}
+List:[
+	a:{e: a1}, 
+	a:{e: a2}, 
+	a:{e: a3}, 
+	a:{e: a4}, 
+	a:{e: a5}, 
+	a:{e: a6}
+]
+Elimina (final): a:{e: a6}
+List:[
+	a:{e: a1}, 
+	a:{e: a2}, 
+	a:{e: a3}, 
+	a:{e: a4}, 
+	a:{e: a5}
+]
+Elimina (final): a:{e: a5}
+List:[
+	a:{e: a1}, 
+	a:{e: a2}, 
+	a:{e: a3}, 
+	a:{e: a4}
+]
+Elimina (final): a:{e: a4}
+List:[
+	a:{e: a1}, 
+	a:{e: a2}, 
+	a:{e: a3}
+]
+Elimina (final): a:{e: a3}
+List:[
+	a:{e: a1}, 
+	a:{e: a2}
+]
+Elimina (final): a:{e: a2}
+List:[
+	a:{e: a1}
+]
+Elimina (final): a:{e: a1}
+List:[
+]
+
+Elimina elementos en posiciones arbitrarias de la coleccion:
+
+List:[
+]
+
+
+Elimina 5: a:{e: a6}
+List:[
+	a:{e: a1}, 
+	a:{e: a2}, 
+	a:{e: a3}, 
+	a:{e: a4}, 
+	a:{e: a5}, 
+	a:{e: a7}, 
+	a:{e: a8}
+]
+Elimina 0: a:{e: a1}
+List:[
+	a:{e: a2}, 
+	a:{e: a3}, 
+	a:{e: a4}, 
+	a:{e: a5}, 
+	a:{e: a7}, 
+	a:{e: a8}
+]
+Elimina 2: a:{e: a4}
+List:[
+	a:{e: a2}, 
+	a:{e: a3}, 
+	a:{e: a5}, 
+	a:{e: a7}, 
+	a:{e: a8}
+]
+Elimina 1: a:{e: a3}
+List:[
+	a:{e: a2}, 
+	a:{e: a5}, 
+	a:{e: a7}, 
+	a:{e: a8}
+]
+Elimina 0: a:{e: a2}
+List:[
+	a:{e: a5}, 
+	a:{e: a7}, 
+	a:{e: a8}
+]
+Elimina 0: a:{e: a5}
+List:[
+	a:{e: a7}, 
+	a:{e: a8}
+]
+Elimina 0: a:{e: a7}
+List:[
+	a:{e: a8}
+]
+Elimina 0: a:{e: a8}
+List:[
+]
+
+Recupera elementos por posicion:
+
+List:[
+]
+List:[
+	a:{e: a1}, 
+	a:{e: a2}, 
+	a:{e: a3}, 
+	a:{e: a4}, 
+	a:{e: a5}, 
+	a:{e: a6}, 
+	a:{e: a7}, 
+	a:{e: a8}
+]
+
+0: a:{e: a1}
+1: a:{e: a2}
+2: a:{e: a3}
+3: a:{e: a4}
+4: a:{e: a5}
+5: a:{e: a6}
+6: a:{e: a7}
+7: a:{e: a8}
+
+Elimina elementos por valor:
+
+List:[
+	a:{e: a1}, 
+	a:{e: a2}, 
+	a:{e: a3}, 
+	a:{e: a4}, 
+	a:{e: a5}, 
+	a:{e: a6}, 
+	a:{e: a7}, 
+	a:{e: a8}
+]
+
+Eliminar: a:{e: a4} (3) ...
+List:[
+	a:{e: a1}, 
+	a:{e: a2}, 
+	a:{e: a3}, 
+	a:{e: a5}, 
+	a:{e: a6}, 
+	a:{e: a7}, 
+	a:{e: a8}
+]
+
+Eliminar: a:{e: a8} (6) ...
+List:[
+	a:{e: a1}, 
+	a:{e: a2}, 
+	a:{e: a3}, 
+	a:{e: a5}, 
+	a:{e: a6}, 
+	a:{e: a7}
+]
+
+Eliminar: a:{e: a7} (5) ...
+List:[
+	a:{e: a1}, 
+	a:{e: a2}, 
+	a:{e: a3}, 
+	a:{e: a5}, 
+	a:{e: a6}
+]
+
+Eliminar: a:{e: a1} (0) ...
+List:[
+	a:{e: a2}, 
+	a:{e: a3}, 
+	a:{e: a5}, 
+	a:{e: a6}
+]
+
+Eliminar: a:{e: a2} (0) ...
+List:[
+	a:{e: a3}, 
+	a:{e: a5}, 
+	a:{e: a6}
+]
+
+Eliminar: a:{e: a6} (2) ...
+List:[
+	a:{e: a3}, 
+	a:{e: a5}
+]
+
+Eliminar: a:{e: a3} (0) ...
+List:[
+	a:{e: a5}
+]
+
+Eliminar: a:{e: a5} (0) ...
+List:[
+]
+
+
+Inserta elementos en posiciones arbitrarias:
+
+List:[
+]
+
+Insertando: a:{e: a1} ->[3] ...
+List:[
+	a:{e: a1}
+]
+Insertando: a:{e: a1} ->[0] ...
+List:[
+	a:{e: a1}, 
+	a:{e: a1}
+]
+Insertando: a:{e: a1} ->[2] ...
+List:[
+	a:{e: a1}, 
+	a:{e: a1}, 
+	a:{e: a1}
+]
+Insertando: a:{e: a1} ->[-1] ...
+List:[
+	a:{e: a1}, 
+	a:{e: a1}, 
+	a:{e: a1}, 
+	a:{e: a1}
+]
+Insertando: a:{e: a1} ->[-2] ...
+List:[
+	a:{e: a1}, 
+	a:{e: a1}, 
+	a:{e: a1}, 
+	a:{e: a1}, 
+	a:{e: a1}
+]
+Insertando: a:{e: a1} ->[3] ...
+List:[
+	a:{e: a1}, 
+	a:{e: a1}, 
+	a:{e: a1}, 
+	a:{e: a1}, 
+	a:{e: a1}, 
+	a:{e: a1}
+]
+Insertando: a:{e: a1} ->[-2] ...
+List:[
+	a:{e: a1}, 
+	a:{e: a1}, 
+	a:{e: a1}, 
+	a:{e: a1}, 
+	a:{e: a1}, 
+	a:{e: a1}, 
+	a:{e: a1}
+]
+Insertando: a:{e: a1} ->[7] ...
+List:[
+	a:{e: a1}, 
+	a:{e: a1}, 
+	a:{e: a1}, 
+	a:{e: a1}, 
+	a:{e: a1}, 
+	a:{e: a1}, 
+	a:{e: a1}, 
+	a:{e: a1}
+]
+List:[
+]
+
+------------------------------------------------------------------------
